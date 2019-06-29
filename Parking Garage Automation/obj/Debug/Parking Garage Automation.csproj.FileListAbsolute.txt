@@ -1,0 +1,14 @@
+D:\My Programs\Parking Garage Automation\Parking Garage Automation\bin\Debug\Parking Garage Automation.exe.config
+D:\My Programs\Parking Garage Automation\Parking Garage Automation\bin\Debug\Parking Garage Automation.exe
+D:\My Programs\Parking Garage Automation\Parking Garage Automation\bin\Debug\Parking Garage Automation.pdb
+D:\My Programs\Parking Garage Automation\Parking Garage Automation\bin\Debug\Oracle.DataAccess.dll
+D:\My Programs\Parking Garage Automation\Parking Garage Automation\obj\Debug\Parking_Garage_Automation.Form1.resources
+D:\My Programs\Parking Garage Automation\Parking Garage Automation\obj\Debug\Parking_Garage_Automation.Form2.resources
+D:\My Programs\Parking Garage Automation\Parking Garage Automation\obj\Debug\Parking_Garage_Automation.Form3.resources
+D:\My Programs\Parking Garage Automation\Parking Garage Automation\obj\Debug\Parking_Garage_Automation.Form4.resources
+D:\My Programs\Parking Garage Automation\Parking Garage Automation\obj\Debug\Parking_Garage_Automation.Form5.resources
+D:\My Programs\Parking Garage Automation\Parking Garage Automation\obj\Debug\Parking_Garage_Automation.Properties.Resources.resources
+D:\My Programs\Parking Garage Automation\Parking Garage Automation\obj\Debug\Parking Garage Automation.csproj.GenerateResource.Cache
+D:\My Programs\Parking Garage Automation\Parking Garage Automation\obj\Debug\Parking Garage Automation.exe
+D:\My Programs\Parking Garage Automation\Parking Garage Automation\obj\Debug\Parking Garage Automation.pdb
+D:\My Programs\Parking Garage Automation\Parking Garage Automation\obj\Debug\Parking Garage Automation.csprojResolveAssemblyReference.cache
